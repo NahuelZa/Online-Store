@@ -84,5 +84,5 @@ El mecanismo es simple y se gestiona desde el código TypeScript en la carpeta `
 ```
 =======
 # Online-Store
-Programacion III Pimer parcial
->>>>>>> 892947b1ded1f8865db7628c1916a6574827b122
+Programacion III Primer parcial
+
