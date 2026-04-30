@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Proyecto: Protección de Rutas (Educativo)
 
 ## ✍️ Descripción
